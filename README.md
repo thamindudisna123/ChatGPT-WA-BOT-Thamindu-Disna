@@ -15,6 +15,6 @@ Improved efficiency: It can help businesses save time and resources by handling 
 
 Better customer satisfaction: It can provide quick and accurate responses to customer inquiries, improving customer satisfaction.
 
-<h1>Features</h1>
+<h1>How To Deploy</h1>
 
 Please Contact Me On [Whatsapp](https://wa.me/768084855?text=Please_Tell_Me_How_To_Creat_*ChatGPT*_Whatsapp_Bot)

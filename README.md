@@ -1,20 +1,20 @@
-# WHATSAPP CHATGPT
-<h3><b>Join telegram</b> : https://t.me/harshitethicteam <br></h3>
-<br>
-This is a source code to build a WhatsApp bot using OpenAI bot and Node.js. The bot is capable of understanding natural language and providing information on various topics. It can be used to answer questions, provide advice, and even have conversations with users. With this source code, you can create a powerful bot that can be used for a variety of purposes. <br>
+# WHATSAPP CHATGPT BOT CREATED BY SoftCraft™
 
-NOTE: DON'T MESS UP WITH INDEX.JS FILE. <br>
+<h1>Features</h1>
+Integrating ChatGPT with WhatsApp can provide several benefits, including:
 
-# How to Install? 
-$ git clone https://github.com/harshitethic/whatsapp-chatgpt <br>
-$ cd whatsapp-chatgpt <br>
-$ npm install <br>
-$ node index.js <br>
+Automated customer service: It can automatically respond to customer inquiries, reducing the need for human customer service representatives.
 
-<br> NOTE: SETUP KEYS IN accesser.json
+Personalized communication: It can generate personalized responses based on the customer's previous interactions, making communication more engaging and effective.
 
+24/7 availability: It can operate continuously, providing customer support at all times, even outside business hours.
 
-Visit: https://harshitethic.in <br>
+Scalability: It can handle a large volume of customer interactions simultaneously, allowing businesses to scale their customer service operations.
 
-# How to get OpenAI API?
-Visit: https://beta.openai.com/account/api-keys
+Improved efficiency: It can help businesses save time and resources by handling repetitive and routine tasks, allowing human customer service representatives to focus on more complex issues.
+
+Better customer satisfaction: It can provide quick and accurate responses to customer inquiries, improving customer satisfaction.
+
+<h1>Features</h1>
+
+Please Contact Me On [Whatsapp](https://wa.me/768084855?text=Please_Tell_Me_How_To_Creat_*ChatGPT*_Whatsapp_Bot)

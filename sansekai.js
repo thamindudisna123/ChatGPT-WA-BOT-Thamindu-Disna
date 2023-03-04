@@ -74,13 +74,13 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
                     let prompt_template =
                         "I am artificial intelligence " +
                         BOT_NAME +
-                        " developed by a SoftCraft™.\n\nHuman: Hi. How are you?\n " +
+                        " developed by a Thamindu Disna.\n\nHuman: Hi. How are you?\n " +
                         BOT_NAME +
                         ": I'm well. How can SoftCraft help you?\nHuman: " +
                         budy +
-                        "SoftCraft™. \n" +
+                        "Thamindu Disna. \n" +
                         BOT_NAME +
-                        "SoftCraft™: ";
+                        "Thamindu Disna™: ";
 
                     const response = await openai.createCompletion({
                         model: "text-davinci-003",

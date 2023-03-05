@@ -5,7 +5,7 @@ const util = require('util')
 const chalk = require('chalk')
 const { Configuration, OpenAIApi } = require("openai")
 let setting = require('./accesser.json')
-const BOT_NAME = process.env.BOT_NAME ?? "SoftCraft Sri Lanka AI BOT Based ChatGPT";
+const BOT_NAME = process.env.BOT_NAME ?? "ThaminduDisna AI BOT Based ChatGPT";
 
 module.exports = sansekai = async (client, m, chatUpdate, store) => {
     try {
@@ -76,7 +76,7 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
                         BOT_NAME +
                         " developed by a Thamindu Disna.\n\nHuman: Hi. How are you?\n " +
                         BOT_NAME +
-                        ": I'm well. How can SoftCraft help you?\nHuman: " +
+                        ": I'm well. How can I help you?\nHuman: " +
                         budy +
                         "Thamindu Disna. \n" +
                         BOT_NAME +

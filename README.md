@@ -18,3 +18,14 @@ Better customer satisfaction: It can provide quick and accurate responses to cus
 <h1>How To Deploy</h1>
 
 Please Contact Me On [Whatsapp](https://wa.me/768084855?text=Please_Tell_Me_How_To_Creat_*ChatGPT*_Whatsapp_Bot)
+
+
+
+<h1>Soft Craft Member List</h1>
+🔰Thamindu Disna
+🔰Dileepa Vishwa
+🔰Chamath Sandaru
+🔰Geeth Kaweesha
+🔰Asantha Samith 
+🔰Thiwanka Dananjaya
+🔰Hesith Deshan
